@@ -1,0 +1,15 @@
+Changes
+Mad.pm
+Mad.xs
+Makefile.PL
+MANIFEST
+README
+test.pl
+typemap
+constants.h
+dither.c
+dither.h
+resample.c
+resample.h
+test.mp3
+LICENSE
